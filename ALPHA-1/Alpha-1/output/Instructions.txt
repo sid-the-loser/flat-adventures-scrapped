@@ -1,0 +1,22 @@
+Game Version: Alpha1
+
+--Launching game--
+
+Run the game file as administrator.
+Disable ur antivirus if possible.
+
+--Controlls--
+
+WASD or arrow keys to move.
+Return to destroy trees or rocks.
+Space to place trees.
+F3 for debug info.
+
+--New--
+
+F2 for screenshot.
+
+--Note--
+
+There might be some world related loading issues, so if the game doesn't load for you, find and delete res file.
+If you cant find res folder, report it in the comments. (Pls give info like, OS(name, version), version of game.)
